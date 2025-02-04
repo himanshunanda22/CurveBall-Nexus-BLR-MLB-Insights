@@ -62,15 +62,12 @@ We encountered several challenges during development. Managing live streaming re
 ## Meet Team CurveBall Nexus BLR
 | Dr. Prashant Ramappa | Gagan Yadav S | Druva Hegde | Himanshu Nanda |
 |:---:|:---:|:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/93f728f4-3eea-4ee8-9ae6-1ba5bf4a99e8" style="width:250px;height:250px;object-fit:cover;object-position:center;"> | <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/69206689/409558018-775556aa-2618-4068-a2ec-5ad9630e9303.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250204%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250204T130758Z&X-Amz-Expires=300&X-Amz-Signature=0fb93d136fe833884244bfafc19d86d6f75c0177834465d6e4cb6a3392eff4dd&X-Amz-SignedHeaders=host" style="width:250px;height:250px;object-fit:cover;object-position:center;"> | <img src="https://github.com/user-attachments/assets/7143b896-35b8-4eb8-a945-4cf4a7214549" style="width:250px;height:250px;object-fit:cover;object-position:center;"> | <img src="https://github.com/user-attachments/assets/7ac098d8-518d-49e9-b291-b70fa74c5fba" style="width:250px;height:250px;object-fit:cover;object-position:center;"> |
-
+| <img src="https://github.com/user-attachments/assets/93f728f4-3eea-4ee8-9ae6-1ba5bf4a99e8" style="width:300px;height:300px;object-fit:cover;object-position:center;"> | <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/69206689/409558018-775556aa-2618-4068-a2ec-5ad9630e9303.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250204%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250204T130758Z&X-Amz-Expires=300&X-Amz-Signature=0fb93d136fe833884244bfafc19d86d6f75c0177834465d6e4cb6a3392eff4dd&X-Amz-SignedHeaders=host" style="width:250px;height:250px;object-fit:cover;object-position:center;"> | <img src="https://github.com/user-attachments/assets/7143b896-35b8-4eb8-a945-4cf4a7214549" style="width:250px;height:250px;object-fit:cover;object-position:center;"> | <img src="https://github.com/user-attachments/assets/7ac098d8-518d-49e9-b291-b70fa74c5fba" style="width:250px;height:250px;object-fit:cover;object-position:center;"> |
 
 ## Snapshots
-![image](https://github.com/user-attachments/assets/b320204d-3097-4873-a693-69691d33c860)
-![image](https://github.com/user-attachments/assets/3c3931eb-c9f1-471d-81fb-a98a5815c091)
-![image](https://github.com/user-attachments/assets/ce09500b-625a-4874-a60b-95631cbd40ec)
-![image](https://github.com/user-attachments/assets/4e469be8-7939-4567-aed0-9dce118fb0bd)
-![image](https://github.com/user-attachments/assets/f8c6ddb2-922f-4627-a9db-9356c9131090)
+| Image 1 | Image 2 | Image 3 | Image 4 | Image 5 |
+|:---:|:---:|:---:|:---:|:---:|
+| ![image](https://github.com/user-attachments/assets/b320204d-3097-4873-a693-69691d33c860) | ![image](https://github.com/user-attachments/assets/3c3931eb-c9f1-471d-81fb-a98a5815c091) | ![image](https://github.com/user-attachments/assets/ce09500b-625a-4874-a60b-95631cbd40ec) | ![image](https://github.com/user-attachments/assets/4e469be8-7939-4567-aed0-9dce118fb0bd) | ![image](https://github.com/user-attachments/assets/f8c6ddb2-922f-4627-a9db-9356c9131090) |
 
 
 
