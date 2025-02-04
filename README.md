@@ -40,13 +40,13 @@ We encountered several challenges during development. Managing live streaming re
 - Live API Integration: We successfully integrated major events from the live API, ensuring up-to-date information.
  
 ## What we learned
---Video to Text and Vision Model Usage: We gained valuable experience in converting video content to text and utilizing vision models for real-time analysis.
---Gemini-2.0 Model: We found the experimental Gemini-2.0 multimodal model to be effective and superior to other vision models like LLAMA currently available in the market.
---Google Cloud Integration: We learned to integrate frontend and backend services on Google Cloud, improving our overall cloud deployment skills.
+-- Video to Text and Vision Model Usage: We gained valuable experience in converting video content to text and utilizing vision models for real-time analysis.
+-- Gemini-2.0 Model: We found the experimental Gemini-2.0 multimodal model to be effective and superior to other vision models like LLAMA currently available in the market.
+-- Google Cloud Integration: We learned to integrate frontend and backend services on Google Cloud, improving our overall cloud deployment skills.
  
 ## What's next for Curveball Nexus BLR
---Internal Implementation: We plan to apply a similar approach for vision-based use cases within our company, leveraging the techniques and technologies we've developed.
---Plug-and-Play Solution: We aim to refine our Agentic framework to create a plug-and-play solution for baseball fan engagement on MLB platforms. This will make it easier to deploy our interactive and intelligent features across different baseball fan applications, enhancing the overall fan experience.
+-- Internal Implementation: We plan to apply a similar approach for vision-based use cases within our company, leveraging the techniques and technologies we've developed.
+-- Plug-and-Play Solution: We aim to refine our Agentic framework to create a plug-and-play solution for baseball fan engagement on MLB platforms. This will make it easier to deploy our interactive and intelligent features across different baseball fan applications, enhancing the overall fan experience.
 
 ## Architecture
 ![image](https://github.com/user-attachments/assets/cee78679-03cd-420d-a091-c473856a2867)
@@ -61,8 +61,6 @@ npm run dev
 ```
 
 ### Backend Setup
--- Fill these specified fields in the .env file
--- Hello
 ```bash
 cd backend_python
 pip install -r requirements.txt
