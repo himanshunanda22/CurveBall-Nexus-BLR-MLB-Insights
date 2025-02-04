@@ -74,23 +74,23 @@ python backend_Server.py
 
 ## Snapshots
 
-| Image 1 |
+| Loading Page |
 |:---:|
 | ![image](https://github.com/user-attachments/assets/b320204d-3097-4873-a693-69691d33c860) |
 
-| Image 2 |
+| Flip it once |
 |:---:|
 | ![image](https://github.com/user-attachments/assets/3c3931eb-c9f1-471d-81fb-a98a5815c091) |
 
-| Image 3 |
+| Nexus AI Chat Assistant |
 |:---:|
 | ![image](https://github.com/user-attachments/assets/ce09500b-625a-4874-a60b-95631cbd40ec) |
 
-| Image 4 |
+| Result |
 |:---:|
 | ![image](https://github.com/user-attachments/assets/4e469be8-7939-4567-aed0-9dce118fb0bd) |
 
-| Image 5 |
+| Result |
 |:---:|
 | ![image](https://github.com/user-attachments/assets/f8c6ddb2-922f-4627-a9db-9356c9131090) |
 
