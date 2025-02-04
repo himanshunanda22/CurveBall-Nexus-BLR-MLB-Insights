@@ -40,9 +40,9 @@ We encountered several challenges during development. Managing live streaming re
 - Live API Integration: We successfully integrated major events from the live API, ensuring up-to-date information.
  
 ## What we learned
--- Video to Text and Vision Model Usage: We gained valuable experience in converting video content to text and utilizing vision models for real-time analysis.
--- Gemini-2.0 Model: We found the experimental Gemini-2.0 multimodal model to be effective and superior to other vision models like LLAMA currently available in the market.
--- Google Cloud Integration: We learned to integrate frontend and backend services on Google Cloud, improving our overall cloud deployment skills.
+- Video to Text and Vision Model Usage: We gained valuable experience in converting video content to text and utilizing vision models for real-time analysis.
+- Gemini-2.0 Model: We found the experimental Gemini-2.0 multimodal model to be effective and superior to other vision models like LLAMA currently available in the market.
+- Google Cloud Integration: We learned to integrate frontend and backend services on Google Cloud, improving our overall cloud deployment skills.
  
 ## What's next for Curveball Nexus BLR
 -- Internal Implementation: We plan to apply a similar approach for vision-based use cases within our company, leveraging the techniques and technologies we've developed.
@@ -61,6 +61,53 @@ npm run dev
 ```
 
 ### Backend Setup
+- First setup these fields in the .env and then proceed with installation steps,
+## API Keys
+ 
+- **GEMINI_API_KEY**:  
+  *Description*: API key for accessing the Gemini API.
+ 
+- **GOOGLE_API_KEY**:  
+  *Description*: API key for accessing Google services.
+ 
+- **SERPER_API_KEY**:  
+  *Description*: API key for accessing the Serper API.
+ 
+## Google Cloud Configuration
+ 
+- **PROJECT_ID**:  
+  *Description*: The Google Cloud project ID.
+ 
+- **REGION**:  
+  *Description*: The region for Google Cloud services.
+ 
+- **GCS_BUCKET_NAME**:  
+  *Description*: The name of the Google Cloud Storage bucket.
+ 
+- **GCS_BUCKET_URI**:  
+  *Description*: The URI of the Google Cloud Storage bucket.
+ 
+## Vertex AI Configuration
+ 
+- **VS_DIMENSIONS**:  
+  *Description*: The vector dimensions for Vertex AI Vector Search.  
+  *Example*: 768
+ 
+- **VS_INDEX_NAME**:  
+  *Description*: The name of the Vertex AI Vector Search index.
+ 
+- **VS_INDEX_ENDPOINT_NAME**:  
+  *Description*: The name of the Vertex AI Vector Search index endpoint.
+ 
+- **MODEL_ID**:  
+  *Description*: The model ID for the Vertex AI model.  
+  *Example*: gemini-2.0-flash-exp
+ 
+- **INDEX_ID**:  
+  *Description*: The ID of the Vertex AI index.
+ 
+- **ENDPOINT_ID**:  
+  *Description*: The ID of the Vertex AI endpoint.
 ```bash
 cd backend_python
 pip install -r requirements.txt
