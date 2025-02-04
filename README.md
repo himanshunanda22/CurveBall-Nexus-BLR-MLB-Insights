@@ -60,10 +60,10 @@ We encountered several challenges during development. Managing live streaming re
 -- python backend_server.py
 
 ## Meet Team CurveBall Nexus BLR
--- Dr. Prashant Ramappa ![image](https://github.com/user-attachments/assets/93f728f4-3eea-4ee8-9ae6-1ba5bf4a99e8)
--- Gagan Yadav S ![image](https://github.com/user-attachments/assets/8d93d422-0ec6-4a64-aa14-cde64b192967)
--- Druva Hegde ![image](https://github.com/user-attachments/assets/7143b896-35b8-4eb8-a945-4cf4a7214549)
--- Himanshu Nanda ![Himanshu Pic](https://github.com/user-attachments/assets/7ac098d8-518d-49e9-b291-b70fa74c5fba)
+| !<a href="https://github.com/user-attachments/assets/93f728f4-3eea-4ee8-9ae6-1ba5bf4a99e8" target="_blank" rel="noopener noreferrer">Dr. Prashant Ramappa</a> | !<a href="https://github.com/user-attachments/assets/775556aa-2618-4068-a2ec-5ad9630e9303" target="_blank" rel="noopener noreferrer">Gagan Yadav S</a> | !<a href="https://github.com/user-attachments/assets/7143b896-35b8-4eb8-a945-4cf4a7214549" target="_blank" rel="noopener noreferrer">Druva Hegde</a> | !<a href="https://github.com/user-attachments/assets/7ac098d8-518d-49e9-b291-b70fa74c5fba" target="_blank" rel="noopener noreferrer">Himanshu Nanda</a> |
+|:--------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------:|
+| **Dr. Prashant Ramappa**                                                                                 | **Gagan Yadav S**                                                                                 | **Druva Hegde**                                                                                 | **Himanshu Nanda**                                                                                     |
+This Markdown code creates a table with four columns. Each cell in the first row contains an image, and each cell in the second row contains the corresponding
 
 ## Snapshots
 -- ![image](https://github.com/user-attachments/assets/b320204d-3097-4873-a693-69691d33c860)
