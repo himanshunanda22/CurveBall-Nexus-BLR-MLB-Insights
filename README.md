@@ -64,14 +64,14 @@ We encountered several challenges during development. Managing live streaming re
 
 | !<a href="https://github.com/user-attachments/assets/93f728f4-3eea-4ee8-9ae6-1ba5bf4a99e8" target="_blank" rel="noopener noreferrer">Dr. Prashant Ramappa</a> | !<a href="https://github.com/user-attachments/assets/775556aa-2618-4068-a2ec-5ad9630e9303" target="_blank" rel="noopener noreferrer">Gagan Yadav S</a> | !<a href="https://github.com/user-attachments/assets/7143b896-35b8-4eb8-a945-4cf4a7214549" target="_blank" rel="noopener noreferrer">Druva Hegde</a> | !<a href="https://github.com/user-attachments/assets/7ac098d8-518d-49e9-b291-b70fa74c5fba" target="_blank" rel="noopener noreferrer">Himanshu Nanda</a> |
 |:--------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------:|
-| **Dr. Prashant Ramappa**                                                                                 | **Gagan Yadav S**                                                                                 | **Druva Hegde**                                                                                 | **Himanshu Nanda**                                                                                     |
+| **Dr. Prashant Ramappa**                                                                                 | **Gagan Yadav S**                                                                                 | **Druva Hegde**                                                                                 | **Himanshu Nanda**                                                                                     |                                                                             | **Himanshu Nanda**                                                                                     |
 
 ## Snapshots
--- ![image](https://github.com/user-attachments/assets/b320204d-3097-4873-a693-69691d33c860)
--- ![image](https://github.com/user-attachments/assets/3c3931eb-c9f1-471d-81fb-a98a5815c091)
--- ![image](https://github.com/user-attachments/assets/ce09500b-625a-4874-a60b-95631cbd40ec)
--- ![image](https://github.com/user-attachments/assets/4e469be8-7939-4567-aed0-9dce118fb0bd)
--- ![image](https://github.com/user-attachments/assets/f8c6ddb2-922f-4627-a9db-9356c9131090)
+![image](https://github.com/user-attachments/assets/b320204d-3097-4873-a693-69691d33c860)
+![image](https://github.com/user-attachments/assets/3c3931eb-c9f1-471d-81fb-a98a5815c091)
+![image](https://github.com/user-attachments/assets/ce09500b-625a-4874-a60b-95631cbd40ec)
+![image](https://github.com/user-attachments/assets/4e469be8-7939-4567-aed0-9dce118fb0bd)
+![image](https://github.com/user-attachments/assets/f8c6ddb2-922f-4627-a9db-9356c9131090)
 
 
 
