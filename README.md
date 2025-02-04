@@ -51,13 +51,21 @@ We encountered several challenges during development. Managing live streaming re
 ## Architecture
 ![image](https://github.com/user-attachments/assets/cee78679-03cd-420d-a091-c473856a2867)
 
-## How to run the Nexus App:-
--- cd frontend
--- npm install
--- npm run dev
--- cd backend_python
--- pip install requirements.txt
--- python backend_server.py
+## Setup and Run Guide
+
+### Frontend Setup
+```bash
+cd frontend
+npm install
+npm run dev
+```
+
+### Backend Setup
+```bash
+cd backend_python
+pip install -r requirements.txt
+python backend_Server.py
+```
 
 ## Meet Team CurveBall Nexus BLR
 | Dr. Prashant Ramappa | Gagan Yadav S | Druva Hegde | Himanshu Nanda |
