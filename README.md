@@ -158,6 +158,9 @@ python backend_Server.py
 |:---:|
 | ![image](https://github.com/user-attachments/assets/f8c6ddb2-922f-4627-a9db-9356c9131090) |
 
+## License
+
+This project is released under the MIT License
 
 
 
