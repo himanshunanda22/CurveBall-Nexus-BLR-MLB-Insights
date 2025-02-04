@@ -61,7 +61,8 @@ npm run dev
 ```
 
 ### Backend Setup
-- First setup these fields in the .env and then proceed with installation steps,
+- First setup these fields in the .env and then proceed with installation steps.
+- Make sure to add Google Cloud Service Account Key File as 1.json in the backend_python folder.
 ## API Keys
  
 - **GEMINI_API_KEY**:  
