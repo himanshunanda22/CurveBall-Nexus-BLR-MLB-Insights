@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/21640bfc-7770-4672-aa2d-47bb2b999769)## Inspiration
+## Inspiration
 We got our inspiration from the Indian Premier League (IPL) a Cricket Game, which is renowned for its exciting and interactive fan experiences. The IPL has done an amazing job of using technology to bring fans closer to the game with real-time statistics, engaging commentary, and interactive features. By applying these principles to Major League Baseball (MLB), we believe we can transform how baseball fans enjoy the game.
  
 Lessons from the IPL:
